@@ -7,6 +7,7 @@ data/smsspamcollection - Free to use at your own risk - Tiago Agostinho de Almei
 data/1800.csv - MIT - https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python/blob/master/LICENSE
 data/2010-12-01.csv - same as data/retail-data/
 data/Book.txt - MIT - https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python/blob/master/book.txt
+data/fakefriends.txt - MIT - https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python/blob/master/book.txt
 
 Unclear licenses
 ================
