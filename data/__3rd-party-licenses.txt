@@ -1,0 +1,18 @@
+Licenses
+========
+
+flight-data/2015-summary.json - Apache 2.0 - https://github.com/databricks/Spark-The-Definitive-Guide/blob/master/license.md
+data/retail-data/ - Author Attribution Required - Daqing Chen, Sai Liang Sain, and Kun Guo, Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197â€“208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
+data/smsspamcollection - Free to use at your own risk - Tiago Agostinho de Almeida and José María Gómez Hidalgo hold the copyrigth (c) for the SMS Spam Collection v.1.
+data/1800.csv - MIT - https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python/blob/master/LICENSE
+data/2010-12-01.csv - same as data/retail-data/
+data/Book.txt - MIT - https://github.com/PacktPublishing/Frank-Kanes-Taming-Big-Data-with-Apache-Spark-and-Python/blob/master/book.txt
+
+Unclear licenses
+================
+
+data/ml-1m/ - Non Commercial Usage - Dataset can be downloaded by users, but not bundled
+data/College.csv - unknown source
+
+
+... more to follow
